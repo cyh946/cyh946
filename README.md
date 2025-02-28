@@ -63,9 +63,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/cyh946/count.svg)t
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yxn4065&abbreviated=true&color=yellow" />
 <a href="https://github.com/cyh946"><img src="https://img.shields.io/badge/GitHub-cyh946-blue?logo=github" /></a>
-<a href="https://yxn4065.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-Xenon_AI-red" /></a>
-<img src="https://img.shields.io/badge/QQ-2038865970-green?logo=tencentqq" />
-<img href="mailto:xenon4065@gmail.com" src="https://img.shields.io/badge/xenon4065@gmail.com-D14836?logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/QQ-1227886261-green?logo=tencentqq" />
+<img href="mailto:cyhstc@gmail.com" src="https://img.shields.io/badge/cyhstc@gmail.com-D14836?logo=gmail&logoColor=white" />
 </p>
 
 
@@ -77,17 +76,17 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/cyh946/count.svg)t
     <tr>
       <!-- 第一个图片 -->
       <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api?username=yxn4065&show_icons=true" />
+        <img height='200' src="https://github-readme-stats.vercel.app/api?username=cyh946&show_icons=true" />
       </td>
       <!-- 第二个图片 -->
       <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxn4065&layout=compact" />
+        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyh946&layout=compact" />
       </td>
     </tr>
     <!-- 第三个图片 -->
     <tr>
       <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=yxn4065&theme=github-compact&hide_border=true&area=true" />
+        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=cyh946&theme=github-compact&hide_border=true&area=true" />
       </td>
     </tr>
   </table>
@@ -105,72 +104,10 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/cyh946/count.svg)t
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-**🐱 My GitHub Data** 
 
-> 📦 70.9 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-🌆 Daytime                8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-🌃 Evening                22 commits          ███████████░░░░░░░░░░░░░░   45.83 % 
-🌙 Night                  13 commits          ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Tuesday                  10 commits          █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Wednesday                18 commits          █████████░░░░░░░░░░░░░░░░   37.50 % 
-Thursday                 6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 9 commits           █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    14 hrs              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Chrome                   14 hrs              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-get_subscribe            14 hrs              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  14 hrs              █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   7 repos             ███████████████░░░░░░░░░░   58.33 % 
-C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-
-
-
-
- Last Updated on 27/02/2025 18:42:31 UTC
 <!--END_SECTION:waka-->
 
-<!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
+<!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=cyh946) -->
 
 ---
 
