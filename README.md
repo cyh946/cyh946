@@ -58,7 +58,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/cyh946/count.svg)t
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yxn4065&abbreviated=true&color=yellow" />
 <a href="https://github.com/cyh946"><img src="https://img.shields.io/badge/GitHub-cyh946-blue?logo=github" /></a>
-<img src="https://img.shields.io/badge/QQ-1227886261-green?logo=tencentqq" />
 <img href="mailto:cyhstc@gmail.com" src="https://img.shields.io/badge/cyhstc@gmail.com-D14836?logo=gmail&logoColor=white" />
 </p>
 
